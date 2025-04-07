@@ -1,0 +1,23 @@
+.about-container{
+    text-align: center;
+    background-color: rgb(34, 33, 33);
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+.up-about h1{
+    font-size: 40px;
+}
+.up-about p{
+    line-height: 30px;
+    margin: 30px 350px;
+}
+.down-about{
+    margin-top: 50px;
+}
+.down-about h3{
+    font-size: 25px;
+}
+.about-footer{
+    margin-top: -22px;
+}

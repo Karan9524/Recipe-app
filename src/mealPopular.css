@@ -1,0 +1,21 @@
+.pop-head{
+    text-align: center;
+    margin-top: 40px;
+}
+.popular-container {
+    margin: auto;
+    display: flex;
+    gap: 70px;
+    justify-content: center;
+    align-items: center;
+    padding: 32px;
+}
+.popular-item img{
+    cursor: pointer;
+}
+.popular-item p{
+    text-align: center;
+    cursor: pointer;
+    font-size: 20px;
+    font-weight: 400;
+}

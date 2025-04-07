@@ -1,0 +1,47 @@
+.api-container{
+    text-align: center;
+    margin: auto 300px;
+}
+.api-container h1{
+    font-size: 40px;
+    justify-content: center;
+}
+.api-con1, .api-con2, .api-con3, .api-con4{
+    margin-top: -20px;
+}
+.support, .keys, .upgrade, .api-contact{
+    display: flex;
+    justify-content: center;
+    gap: 5px;
+}
+.support img, .keys img, .upgrade img, .api-contact img{
+    height: 30px;
+    margin-top: 38px;
+}
+.support h6, .keys h6, .upgrade h6, .api-contact h6{
+    font-size: 18px;
+}
+.api-con1 p, .api-con2 p, .api-con3 p, .api-con4 p{
+    margin-top: -35px;
+}
+.link{
+    margin-top: -15px;
+}
+.link1{
+    margin-top: 50px;
+}
+.link4{
+    margin-bottom: 50px;
+}
+.link1 a{
+    color: orangered;
+}
+.link1 a:hover{
+    color: orange;
+}
+.link2, .link3, .link4{
+    margin-top: 30px;
+}
+.api-container a{
+    text-decoration: none;
+}

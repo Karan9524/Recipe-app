@@ -1,0 +1,43 @@
+.contact-container{
+    text-align: center;
+    background-color: rgb(34, 33, 33);
+    color: white;
+}
+.contact-container{
+    margin-top: -22px;
+}
+.contact-container h1{
+    padding-top: 30px;
+}
+.cont-email, .cont-chat, h2{
+    margin-top: 40px;
+}
+.cont-chat p{
+    color: orangered;
+    cursor: pointer;
+}
+.cont-chat p:hover{
+    color: rgb(252, 187, 67);
+}
+.cont-img, .cont-img2{
+    margin-top: 50px;
+    cursor: pointer;
+}
+.cont-img2{
+    padding-bottom: 50px;
+    cursor: pointer;
+}
+.cont-img p, .cont-img2 p{
+    font-size: 16px;
+    margin-top: -5px;
+    color: orangered;
+}
+.cont-img p:hover{
+    color: rgb(252, 187, 67);
+}
+.cont-img2 p:hover{
+    color: rgb(252, 187, 67);
+}
+.contact-footer{
+    margin-top: -22px;
+}

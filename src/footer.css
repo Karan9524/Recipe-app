@@ -1,0 +1,61 @@
+.footer-container{
+    background: rgb(20, 20, 20);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 400px;
+    margin-top: 20px;
+}
+.built{
+    font-size: 20px;
+}
+.built .ind{
+    display: flex;
+    margin-top: -50px;
+    gap: 5px;
+}
+.built .ind img{
+    height: 15px;
+    margin-top: 33px;
+    cursor: pointer;
+}
+.social{
+    font-size: 20px;
+}
+.social h6{
+    margin-top: 0;
+    font-size: 20px;
+}
+.social .social-icon{
+    margin-top: -40px;
+    gap: 10px;
+    margin-left: -10px;
+}
+.social .social-icon i{
+    margin: auto 5px;
+    cursor: pointer;
+    transition: transform 0.8s;
+}
+.social .social-icon i:hover{
+    transform: scale(1.2);
+    color: rgb(165, 163, 163);
+}
+.details{
+    font-size: 20px;
+}
+.details a{
+    cursor: pointer;
+    text-decoration: none;
+    color: white;
+    width: auto;
+    padding: 2px 5px;
+    border-radius: 3px;
+}
+.details a:hover{
+    background-color: white;
+    color: black;
+}
+.details .contact{
+    margin-left: 20px;
+}
