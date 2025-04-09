@@ -1,7 +1,7 @@
 import React from 'react'
 import MealFooter from './MealFooter'
 import MealHeader from './MealHeader'
-import '../mealApi.css'
+import '../StyleSheet/mealApi.css'
 
 const MealApi = () => {
   return (

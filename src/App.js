@@ -16,16 +16,16 @@ function App() {
   return (
     <Routes>
       <Route path='/' element={<Mainpage />}/>
-      <Route path='/Bheemass' element={<Bheemass />}/>
+      <Route path='/Bheemass' element={<Bheemass />} />
       <Route path='/Vels' element={<Vels />}/>
-      <Route path='/Spicehut' element={<Spicehut/>}/>
+      <Route path='/Spicehut' element={<Spicehut />} />
       <Route path='/Krishna' element={<Krishna />} />
       <Route path='/Vasanth' element={<Vasanth />} />
       <Route path='/Saravana' element={<Saravana />} />
-      <Route path='/:mealid' element={<MealInfo/>}/>
-      <Route path='/MealApi' element={<MealApi />}/>
+      <Route path='/:mealid' element={<MealInfo />} />
+      <Route path='/MealApi' element={<MealApi />} />
       <Route path='/MealAbout' element={<MealAbout />} />
-      <Route path='/MealContact' element={<MealContact/>}/>      
+      <Route path='/MealContact' element={<MealContact />} />      
     </Routes>
   );
 }

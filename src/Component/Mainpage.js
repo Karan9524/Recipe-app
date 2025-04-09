@@ -1,6 +1,6 @@
 import React from 'react'
 import MealFooter from './MealFooter'
-import '../mainpage.css'
+import '../StyleSheet/mainpage.css'
 
 const Mainpage = () => {
     return (

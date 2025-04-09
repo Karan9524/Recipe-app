@@ -38,8 +38,8 @@
     transition: transform 0.8s;
 }
 .social .social-icon i:hover{
-    transform: scale(1.2);
-    color: rgb(165, 163, 163);
+    transform: scale(1.3);
+    /* color: rgb(165, 163, 163); */
 }
 .details{
     font-size: 20px;

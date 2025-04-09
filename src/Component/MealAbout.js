@@ -1,5 +1,5 @@
 import React from 'react'
-import '../mealAbout.css'
+import '../StyleSheet/mealAbout.css'
 import MealHeader from './MealHeader'
 import MealFooter from './MealFooter'
 
